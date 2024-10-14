@@ -1,0 +1,28 @@
+{
+  "name": "orebi",
+  "version": "1.0.0",
+  "description": "A full-stack multi-vendor e-commerce platform allowing multiple sellers to list products and manage their own stores, with features like product search, reviews, payment integration, and order management.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "e-commerce",
+    "multi-vendor",
+    "marketplace",
+    "online-store",
+    "shopping-cart",
+    "product-search",
+    "seller-management",
+    "payment-integration",
+    "order-management",
+    "nodejs",
+    "react",
+    "express",
+    "mongodb",
+    "mern",
+    "full-stack"
+  ],
+  "author": "MMRJ Development",
+  "license": "MIT"
+}
